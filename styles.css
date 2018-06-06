@@ -1,0 +1,93 @@
+body, html {
+    font-family: 'Archivo Narrow';font-size: 22px;
+    height: 100%;
+    margin: 0;
+    color: #919191;
+    font-size: 22px;
+}
+
+a:hover {
+    color: white;
+}
+
+a.red:hover { 
+    color: red;
+}
+
+.bg {
+    background-image: url("3.png");
+    /*background-color: #E0EBE8;*/
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-half {
+    background-image: url("halfWork.png");
+    /*background-color: #E0EBE8;*/
+    height: 50%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.nav-bg-color {
+    background-color: #E0EBE8;
+}
+
+.nav-min-size {
+    min-height: 16%;
+}
+
+.work-div-bg-green {
+    background-color: #7DCC93;
+}
+
+.content-border {
+    border: 2px solid red;
+}
+
+.content-div-border {
+    border: 0px solid green;
+}
+
+.white-text {
+    color: #919191;
+}
+
+.white-text-2 {
+    color: white;
+}
+
+.black-text {
+    color: black;
+}
+
+.underline-text-green {
+    color: #1E836C;
+    text-decoration: underline;
+}
+
+.sub-heading-green {
+    color: #4DB59E;
+}
+
+.main-heading-green {
+    color: #1E836C;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #E0EBE8;
+    color: #4DB59E;
+    text-align: center;
+    font-size: 15px;
+    min-height: 70px;
+}
+
+
+
+
